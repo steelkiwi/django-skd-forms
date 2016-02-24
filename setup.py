@@ -6,7 +6,7 @@ setup(
     version=skd_forms.__version__,
     packages=find_packages(exclude=['skd_forms_tests', 'example_project']),
     description='Django forms alternative',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     author='SteelKiwi Development',
     author_email='sales@steelkiwi.com',
     license='MIT',
